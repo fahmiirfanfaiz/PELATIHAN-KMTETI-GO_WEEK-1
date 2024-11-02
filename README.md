@@ -1,6 +1,6 @@
-Nama : Fahmi Irfan Faiz
+# Nama : Fahmi Irfan Faiz
 
-Penjelasan Alur Kode : 
+## Penjelasan Alur Kode : 
 Pertama-tama, program akan meminta user untuk memasukkan input berupa suhu dalam celsius, 
 kemudian setelah input dimasukkan program akan meminta user untuk memilih opsi konversi suhu berupa opsi 1, 2, dan 3
 (1: celcius -> fahrenheit, 2: celcius -> kelvin, 3:celcius -> reamur),
